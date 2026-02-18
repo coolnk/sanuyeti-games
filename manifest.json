@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "lastUpdated": "2026-02-18T14:30:00Z",
+  "version": "1.0.3",
+  "lastUpdated": "2026-02-18T15:45:00Z",
   "games": [
     {
       "id": "tap-tiles",
@@ -61,6 +61,21 @@
       "minAppVersion": "1.0.0",
       "bundleSize": "8KB",
       "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/sanuyeti-games/games/number-clicker/bundle.js"
+    },
+    {
+      "id": "quick-tap",
+      "title": {
+        "en": "Quick Tap",
+        "ne": "द्रुत ट्याप"
+      },
+      "description": {
+        "en": "Tap the correct colored button as fast as possible! Test your reaction time!",
+        "ne": "सही रंगको बटन जति छिटो भएको टाप गर्नुस्! आपनो प्रतिक्रिया समय परीक्षण गर्नुस्!"
+      },
+      "version": "1.0.0",
+      "minAppVersion": "1.0.0",
+      "bundleSize": "9KB",
+      "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/sanuyeti-games/games/quick-tap/bundle.js"
     }
   ]
 }
