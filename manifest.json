@@ -15,7 +15,7 @@
       "version": "1.0.0",
       "minAppVersion": "1.0.0",
       "bundleSize": "12KB",
-      "bundleUrl": "https://raw.githubusercontent.com/coolnk/sanuyeti-games/main/games/tap-tiles/bundle.js"
+      "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/sanuyeti-games@main/games/tap-tiles/bundle.js"
     },
     {
       "id": "ball-catcher",
@@ -30,7 +30,7 @@
       "version": "1.0.0",
       "minAppVersion": "1.0.0",
       "bundleSize": "11KB",
-      "bundleUrl": "https://raw.githubusercontent.com/coolnk/sanuyeti-games/main/games/ball-catcher/bundle.js"
+      "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/sanuyeti-games@main/games/ball-catcher/bundle.js"
     },
     {
       "id": "flappy-square",
@@ -45,7 +45,7 @@
       "version": "1.0.0",
       "minAppVersion": "1.0.0",
       "bundleSize": "13KB",
-      "bundleUrl": "https://raw.githubusercontent.com/coolnk/sanuyeti-games/main/games/flappy-square/bundle.js"
+      "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/sanuyeti-games@main/games/flappy-square/bundle.js"
     }
   ]
 }
