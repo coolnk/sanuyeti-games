@@ -1,21 +1,51 @@
 {
-  "version": "1.0.0",
-  "lastUpdated": "2026-02-18T00:00:00Z",
+  "version": "1.0.1",
+  "lastUpdated": "2026-02-18T12:00:00Z",
   "games": [
     {
-      "id": "sample-game",
+      "id": "tap-tiles",
       "title": {
-        "en": "Sample Game",
-        "ne": "नमूना खेल"
+        "en": "Tap The Tiles",
+        "ne": "टाइलहरू ट्याप गर्नुस्"
       },
       "description": {
-        "en": "A simple sample game to test dynamic loading",
-        "ne": "परीक्षण गर्न एक साधारण नमूना खेल"
+        "en": "Watch the pattern and tap the tiles in the correct order. Test your memory!",
+        "ne": "प्याटर्न हेर्नुस् र सही क्रममा टाइलहरू ट्याप गर्नुस्"
       },
       "version": "1.0.0",
       "minAppVersion": "1.0.0",
-      "bundleSize": "15KB",
-      "bundleUrl": "https://raw.githubusercontent.com/coolnk/sanuyeti-games/main/games/sample-game/bundle.js"
+      "bundleSize": "12KB",
+      "bundleUrl": "https://raw.githubusercontent.com/coolnk/sanuyeti-games/main/games/tap-tiles/bundle.js"
+    },
+    {
+      "id": "ball-catcher",
+      "title": {
+        "en": "Ball Catcher",
+        "ne": "बल क्याचर"
+      },
+      "description": {
+        "en": "Move your paddle to catch the falling balls. Don't miss!",
+        "ne": "खस्ने बलहरू पकड्न आफ्नो प्याडल सार्नुस्"
+      },
+      "version": "1.0.0",
+      "minAppVersion": "1.0.0",
+      "bundleSize": "11KB",
+      "bundleUrl": "https://raw.githubusercontent.com/coolnk/sanuyeti-games/main/games/ball-catcher/bundle.js"
+    },
+    {
+      "id": "flappy-square",
+      "title": {
+        "en": "Flappy Square",
+        "ne": "फ्ल्यापी स्क्वायर"
+      },
+      "description": {
+        "en": "Jump through the pipes and score as much as you can!",
+        "ne": "पाइपहरूको माध्यमबाट उफ्रनुस् र अधिकतम स्कोर गर्नुस्"
+      },
+      "version": "1.0.0",
+      "minAppVersion": "1.0.0",
+      "bundleSize": "13KB",
+      "bundleUrl": "https://raw.githubusercontent.com/coolnk/sanuyeti-games/main/games/flappy-square/bundle.js"
     }
   ]
 }
