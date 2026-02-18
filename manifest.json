@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "lastUpdated": "2026-02-18T12:00:00Z",
+  "version": "1.0.2",
+  "lastUpdated": "2026-02-18T14:30:00Z",
   "games": [
     {
       "id": "tap-tiles",
@@ -15,7 +15,7 @@
       "version": "1.0.0",
       "minAppVersion": "1.0.0",
       "bundleSize": "12KB",
-      "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/sanuyeti-games@main/games/tap-tiles/bundle.js"
+      "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/sanuyeti-games/games/tap-tiles/bundle.js"
     },
     {
       "id": "ball-catcher",
@@ -30,7 +30,7 @@
       "version": "1.0.0",
       "minAppVersion": "1.0.0",
       "bundleSize": "11KB",
-      "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/sanuyeti-games@main/games/ball-catcher/bundle.js"
+      "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/sanuyeti-games/games/ball-catcher/bundle.js"
     },
     {
       "id": "flappy-square",
@@ -45,7 +45,22 @@
       "version": "1.0.0",
       "minAppVersion": "1.0.0",
       "bundleSize": "13KB",
-      "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/sanuyeti-games@main/games/flappy-square/bundle.js"
+      "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/sanuyeti-games/games/flappy-square/bundle.js"
+    },
+    {
+      "id": "number-clicker",
+      "title": {
+        "en": "Number Clicker",
+        "ne": "नम्बर क्लिकर"
+      },
+      "description": {
+        "en": "Click the numbers in order! Race against time to score as many points as possible!",
+        "ne": "सही क्रममा नम्बरहरू क्लिक गर्नुस्! समयसीमाको विरुद्ध अधिकतम अंक प्राप्त गर्नुस्!"
+      },
+      "version": "1.0.0",
+      "minAppVersion": "1.0.0",
+      "bundleSize": "8KB",
+      "bundleUrl": "https://cdn.jsdelivr.net/gh/coolnk/sanuyeti-games/games/number-clicker/bundle.js"
     }
   ]
 }
