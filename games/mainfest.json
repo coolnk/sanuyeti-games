@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-02-18T00:00:00Z",
+  "games": [
+    {
+      "id": "sample-game",
+      "title": {
+        "en": "Sample Game",
+        "ne": "नमूना खेल"
+      },
+      "description": {
+        "en": "A simple sample game to test dynamic loading",
+        "ne": "परीक्षण गर्न एक साधारण नमूना खेल"
+      },
+      "version": "1.0.0",
+      "minAppVersion": "1.0.0",
+      "bundleSize": "15KB",
+      "bundleUrl": "https://raw.githubusercontent.com/coolnk/sanuyeti-games/main/games/sample-game/bundle.js"
+    }
+  ]
+}
